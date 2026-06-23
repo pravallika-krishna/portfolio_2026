@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio_2026/static/css/main.42eec5b8.css",
-    "main.js": "/portfolio_2026/static/js/main.b970b844.js",
+    "main.css": "/portfolio_2026/static/css/main.6ac8fb4f.css",
+    "main.js": "/portfolio_2026/static/js/main.0a4d9dfb.js",
     "static/css/64.33eb1620.chunk.css": "/portfolio_2026/static/css/64.33eb1620.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/portfolio_2026/static/js/64.56dc6704.chunk.js",
     "static/css/769.ebacab7b.chunk.css": "/portfolio_2026/static/css/769.ebacab7b.chunk.css",
@@ -19,16 +19,16 @@
     "static/media/skill.svg": "/portfolio_2026/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/resume.pdf": "/portfolio_2026/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/portfolio_2026/index.html",
-    "static/media/talksCardBack.svg": "/portfolio_2026/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.42eec5b8.css.map": "/portfolio_2026/static/css/main.42eec5b8.css.map",
-    "main.b970b844.js.map": "/portfolio_2026/static/js/main.b970b844.js.map",
+    "static/media/talksCardBack.svg": "/portfolio_2026/static/media/talksCardBack.99241699e0279aeb0db7.svg",
+    "main.6ac8fb4f.css.map": "/portfolio_2026/static/css/main.6ac8fb4f.css.map",
+    "main.0a4d9dfb.js.map": "/portfolio_2026/static/js/main.0a4d9dfb.js.map",
     "64.33eb1620.chunk.css.map": "/portfolio_2026/static/css/64.33eb1620.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/portfolio_2026/static/js/64.56dc6704.chunk.js.map",
     "769.ebacab7b.chunk.css.map": "/portfolio_2026/static/css/769.ebacab7b.chunk.css.map",
     "769.bda0d7b7.chunk.js.map": "/portfolio_2026/static/js/769.bda0d7b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42eec5b8.css",
-    "static/js/main.b970b844.js"
+    "static/css/main.6ac8fb4f.css",
+    "static/js/main.0a4d9dfb.js"
   ]
 }
