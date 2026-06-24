@@ -250,7 +250,7 @@ const achievementSection = {
       image: require("./assets/images/excellencelogo.png"),
       imageAlt: "Snowflake Excellence Award Logo",
       footerLink: [
-        {name: "", url: ""},
+        {name: "Management Recognition", url: ""},
       ]
     },
     {
